@@ -27,5 +27,5 @@ Default user data directory: .local/share/pandoc or .pandoc
 
 $ mkdir -p .local/share/pandoc/filters
 
-$ curl https://github.com/hippwn/pandoc-cleantables/blob/master/cleantables.lua -o .local/share/pandoc/filters/cleantables.lua
+$ curl https://raw.githubusercontent.com/hippwn/pandoc-cleantables/master/cleantables.lua -o .local/share/pandoc/filters/cleantables.lua
 ```
