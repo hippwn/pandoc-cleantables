@@ -1,3 +1,9 @@
+> **DEPRECATED**
+>
+> In 2020, pandoc changed its Lua table API and completly broke this
+> repository. I do not have time to rewrite the code so it'll be deprecated
+> until further notice.
+
 # pandoc-cleantables
 
 This filter overrides the way Pandoc writes LaTeX tables, especially their
